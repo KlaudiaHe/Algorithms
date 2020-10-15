@@ -22,7 +22,7 @@ public class InsertionSortAlgorithm {
 // a tak to trzeba utworzyć nową tablice, do ktorej przypisuje się wczesniej utworzona tablice potraktowaną metodą, i w forze druknac kazdy element.
 //proby drukniecia tab[i] drukuja miejsce w pamieci;
     }
-//mój ulubiony.
+//mój drugi ulubiony.
 
 
 public static void insertionSort(int sortedArray[]){
